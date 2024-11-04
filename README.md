@@ -5,6 +5,7 @@
 ![cover.png](cover.png)
 
 이 책을 위해 동영상 강의를 제공합니다. [텐서 ≈ 스터디 페이스북 그룹]()에 함께 참여하시거나 [한빛미디어 유튜브 채널](https://www.youtube.com/user/HanbitMedia93), 제 [개인 유튜브 채널](https://www.youtube.com/c/HaesunPark_ML/)에서 볼 수 있습니다.
+https://www.youtube.com/watch?v=J6wehCO_c58&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX
 
 주피터 노트북 뷰어나 코랩에서 노트북을 열려면 다음 링크를 사용하세요.
 
